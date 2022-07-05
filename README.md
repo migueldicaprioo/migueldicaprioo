@@ -13,6 +13,8 @@ const Dicaprio  = {
     technologies: {
         databases: ["MySql"]
     },
+    currentProject: "A fazer novas criações para o Sofy AC",
+    DiscordSofy: "https://discord.io/sofyac",
 };
 ```
 ##
