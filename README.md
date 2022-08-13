@@ -12,9 +12,6 @@ const Dicaprio  = {
     askMeAbout: ["Game Dev", "Tech", "Gaming"],
     technologies: {
         databases: ["MySql"]
-    },
-    currentProject: "A fazer novas criações para o Sofy AC",
-    DiscordSofy: "https://discord.io/sofyac",
 };
 ```
 ##
