@@ -18,4 +18,4 @@ const Dicaprio  = {
 
   ![Snake animation](https://github.com/gfmcosta/gfmcosta/blob/output/github-contribution-grid-snake.svg)
 
-- 📫 How to reach me: [discord](https://discordapp.com/users/1017516919441600542).
+- 📫 How to reach me: [DISCORD](https://discordapp.com/users/1017516919441600542).
